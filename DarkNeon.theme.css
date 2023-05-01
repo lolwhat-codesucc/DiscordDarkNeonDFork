@@ -35,4 +35,6 @@
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
   --background-brightness: 100%; /* Changes the background images brightness */
+  --text-normal: #02ba49;
+  --text-muted: #ba0202;
 }
